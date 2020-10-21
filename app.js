@@ -14,8 +14,8 @@ i=x.reverse();
 console.log(i);*/
 var x=[1,2,4,6,8];
 /*var a=x.toString();*/
-var a=x.join();
-console.log(a);
+/*var a=x.join();*/
+console.log(x.indexOf(6));
 
 
 
