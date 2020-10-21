@@ -17,8 +17,9 @@ var x=[1,2,4,6,8];
 /*var a=x.join();*/
 /*console.log(x.indexOf(6));*/
 /*x.splice(1,0,3);*/
-x.splice(2,1,);
-console.log(x);
+/*x.splice(2,1,);*/
+var a=x.includes(4,3);
+console.log(a);
 
 
 
