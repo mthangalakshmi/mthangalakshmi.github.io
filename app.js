@@ -12,16 +12,20 @@ console.log(x);*/
 var i;
 i=x.reverse();
 console.log(i);*/
-var x=[1,2,4,6,8];
+/*var x=[1,2,4,6,8];
 /*var a=x.toString();*/
 /*var a=x.join();*/
 /*console.log(x.indexOf(6));*/
 /*x.splice(1,0,3);*/
 /*x.splice(2,1,);*/
 /*var a=x.includes(4,3);*/
-var y=[3,5,7,9,4];
+/*var y=[3,5,7,9,4];
 var a=x.concat(y);
-console.log(a);
+console.log(a);*/
+var s=["cat","fan","ant","dog"];
+s.sort();
+console.log(s);
+
 
 
 
