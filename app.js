@@ -18,7 +18,9 @@ var x=[1,2,4,6,8];
 /*console.log(x.indexOf(6));*/
 /*x.splice(1,0,3);*/
 /*x.splice(2,1,);*/
-var a=x.includes(4,3);
+/*var a=x.includes(4,3);*/
+var y=[3,5,7,9,4];
+var a=x.concat(y);
 console.log(a);
 
 
