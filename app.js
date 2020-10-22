@@ -25,8 +25,10 @@ console.log(a);*/
 /*var s=["cat","fan","ant","dog"];
 s.sort();
 console.log(s);*/
-var y=[1,3,4,8];
-console.log(y.valueOf());
+/*var y=[1,3,4,8];
+console.log(y.valueOf());*/
+var x=[1,4,3,2,5,3,6];
+console.log(x.lastIndexOf(3));
 
 
 
