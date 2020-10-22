@@ -22,9 +22,11 @@ console.log(i);*/
 /*var y=[3,5,7,9,4];
 var a=x.concat(y);
 console.log(a);*/
-var s=["cat","fan","ant","dog"];
+/*var s=["cat","fan","ant","dog"];
 s.sort();
-console.log(s);
+console.log(s);*/
+var y=[1,3,4,8];
+console.log(y.valueOf());
 
 
 
